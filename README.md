@@ -20,10 +20,9 @@ The _**'Introduction to Neurotech'**_ workshop series, started for the 24/25 aca
 ### Content: 
 
 - The basics of neuroscience - how the brain processes information
-- Whistlestop tour through brain regions and key responsiblities
-- Open questions in neuroscience that are pivotal for the advancement of Neurotechnology (e.g., memory encoding, consciousness, neural plasticity) 
-- Highlights on ongoing research
-
+- Tour through brain regions and key functional responsiblities
+- Knowledge dump of Philosophy of the Mind, and how it related to Neurotech
+- An appreciation of the trillions of signals the unconscious brain is handling at any given second
 
 ## Workshop Three - Neurotech 103
 
